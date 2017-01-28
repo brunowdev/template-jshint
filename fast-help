@@ -1,0 +1,5 @@
+
+
+    /* jshint validthis:true */ -> accept this as a valid in context
+    
+    /* jshint -W117, -W030 */ -> make describe, it, expected and more assertions valid in a test file
